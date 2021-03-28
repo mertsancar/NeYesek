@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Ne_Yesek_App.Pages.YourMealPage"
+             Background="#AB0012">
+    <StackLayout HorizontalOptions="Center" VerticalOptions="Center" >
+
+        <!--<Image HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand" Aspect="AspectFill"  x:Name="borek"></Image>-->
+
+        <Label
+               Margin="50" 
+               FontSize = "32" 
+               Text="" 
+               HorizontalOptions="Center"
+               TextColor="#FDA530" 
+               x:Name="your_meal" />
+
+
+
+        <BoxView HeightRequest="1" BackgroundColor="#FDA530" ></BoxView>
+
+        <StackLayout >
+
+
+            <Button Text="Sipariş Ver"
+                        TextColor="#AB0012"
+                        FontSize="16"    
+                        FontAttributes="Bold"
+                        CornerRadius="50"
+                        BackgroundColor="#FDA530"
+                
+                        Clicked="Get_Order" />
+
+            <Button Text="Tarif Bul"
+                        TextColor="#AB0012"
+                        FontSize="16"    
+                        FontAttributes="Bold"
+                        CornerRadius="50"
+                        BackgroundColor="#FDA530"
+                
+                        Clicked="Get_Recipe" />
+
+            <Button Text="Geri Dön"
+                        TextColor="#AB0012"
+                        FontSize="16" 
+                        FontAttributes="Bold"
+                        CornerRadius="50"
+                        BackgroundColor="#FDA530"
+                
+                        Clicked="Handle_Click"/>
+
+
+
+        </StackLayout>
+
+
+
+    </StackLayout>
+    
+</ContentPage>

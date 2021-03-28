@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\Ne Yesek App\Ne Yesek App\Ne Yesek App\bin\Debug\netstandard2.0\Ne Yesek App.deps.json
+C:\Users\User\source\repos\Ne Yesek App\Ne Yesek App\Ne Yesek App\bin\Debug\netstandard2.0\Ne Yesek App.dll
+C:\Users\User\source\repos\Ne Yesek App\Ne Yesek App\Ne Yesek App\bin\Debug\netstandard2.0\ref\Ne Yesek App.dll
+C:\Users\User\source\repos\Ne Yesek App\Ne Yesek App\Ne Yesek App\bin\Debug\netstandard2.0\Ne Yesek App.pdb
+C:\Users\User\source\repos\Ne Yesek App\Ne Yesek App\Ne Yesek App\obj\Debug\netstandard2.0\Ne Yesek App.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Ne Yesek App\Ne Yesek App\Ne Yesek App\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\User\source\repos\Ne Yesek App\Ne Yesek App\Ne Yesek App\obj\Debug\netstandard2.0\Ne Yesek App.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Ne Yesek App\Ne Yesek App\Ne Yesek App\obj\Debug\netstandard2.0\Ne Yesek App.AssemblyInfo.cs
+C:\Users\User\source\repos\Ne Yesek App\Ne Yesek App\Ne Yesek App\obj\Debug\netstandard2.0\Ne Yesek App.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Ne Yesek App\Ne Yesek App\Ne Yesek App\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\User\source\repos\Ne Yesek App\Ne Yesek App\Ne Yesek App\obj\Debug\netstandard2.0\Ne Yesek App.dll
+C:\Users\User\source\repos\Ne Yesek App\Ne Yesek App\Ne Yesek App\obj\Debug\netstandard2.0\ref\Ne Yesek App.dll
+C:\Users\User\source\repos\Ne Yesek App\Ne Yesek App\Ne Yesek App\obj\Debug\netstandard2.0\Ne Yesek App.pdb
+C:\Users\User\source\repos\Ne Yesek App\Ne Yesek App\Ne Yesek App\obj\Debug\netstandard2.0\Pages\MainPage.xaml.g.cs
+C:\Users\User\source\repos\Ne Yesek App\Ne Yesek App\Ne Yesek App\obj\Debug\netstandard2.0\Pages\ParameterPage.xaml.g.cs
+C:\Users\User\source\repos\Ne Yesek App\Ne Yesek App\Ne Yesek App\obj\Debug\netstandard2.0\Pages\YourMealPage.xaml.g.cs
+C:\Users\User\source\repos\Ne Yesek App\Ne Yesek App\Ne Yesek App\obj\Debug\netstandard2.0\Pages\LoadingPage.xaml.g.cs

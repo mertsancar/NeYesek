@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:lottie="clr-namespace:Lottie.Forms;assembly=Lottie.Forms"
+             x:Class="Ne_Yesek_App.Pages.LoadingPage">
+    
+        
+        
+        <StackLayout>
+
+            <lottie:AnimationView x:Name="lottie" 
+                                  Animation="45663-spin-to-win.json" 
+                                  AutoPlay="True" 
+                                  />
+
+
+
+        </StackLayout>
+        
+        
+   
+</ContentPage>

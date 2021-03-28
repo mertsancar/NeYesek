@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Ne_Yesek_App.Pages.ParameterPage"
+             Background="#AB0012">
+    
+    <StackLayout HorizontalOptions="Center" VerticalOptions="Center" >
+
+        <!--<Image Source="" Aspect="AspectFill" x:Name="food_image"></Image>-->
+
+
+        <!--<BoxView HeightRequest="1" BackgroundColor="#FDA530" Opacity="10" ></BoxView>-->
+
+        <Label
+               FontSize = "32" 
+               Text="Ne Kadar Açsın?" 
+               HorizontalOptions="Center"
+               TextColor="#FDA530" 
+               x:Name="hungry"/>
+
+        <Label
+               FontSize = "32" 
+               Text="" 
+               HorizontalOptions="Center"
+               TextColor="#FDA530" 
+               x:Name="hungry_level"/>
+
+        <Slider 
+                
+                Minimum="0" 
+                Maximum="5"
+                ValueChanged="Sliderhungry_ValueChanged"
+                BackgroundColor="#FDA530"
+                x:Name="hungry_slider" Margin="0,0,0,50"/>
+
+        <BoxView HeightRequest="1" BackgroundColor="#FDA530" ></BoxView>
+
+        <Label
+               FontSize = "32" 
+               Text="Hangi Öğün?" 
+               HorizontalOptions="Center"
+               TextColor="#FDA530" 
+               x:Name="time"/>
+
+
+        <StackLayout Orientation="Horizontal" Margin="0,75,0,0"  Spacing="25">
+
+            <RadioButton Content="Öğleden Önce"
+                         FontSize = "20" 
+                         GroupName="time"
+                         Margin="0,0,0,15"
+                         TextColor="#FDA530"
+                         x:Name="time_before"></RadioButton>
+
+            <RadioButton Content="Öğleden Sonra"
+                         FontSize = "20"                        
+                         GroupName="time"
+                         Margin="0,0,0,15"
+                         TextColor="#FDA530"
+                         x:Name="time_after"></RadioButton>
+
+        </StackLayout>
+
+
+
+        <BoxView HeightRequest="1" BackgroundColor="#FDA530" Margin="0,0,0,75" ></BoxView>
+
+        <StackLayout >
+
+            <Button Text="Tamamdır!"
+                        TextColor="#AB0012"
+                        FontSize="16"    
+                        FontAttributes="Bold"
+                        CornerRadius="50"
+                        BackgroundColor="#FDA530"
+                
+                        Clicked="Get_Random_Food" />
+
+            <Button Text="Geri Dön"
+                        TextColor="#AB0012"
+                        FontSize="16" 
+                        FontAttributes="Bold"
+                        CornerRadius="50"
+                        BackgroundColor="#FDA530"
+                
+                        Clicked="Handle_Click"/>
+
+        </StackLayout>
+
+
+
+    </StackLayout>
+    
+</ContentPage>

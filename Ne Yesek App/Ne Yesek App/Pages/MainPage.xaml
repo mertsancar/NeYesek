@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Ne_Yesek_App.MainPage"
+             Background="#AB0012"
+             >
+
+    <StackLayout HorizontalOptions="Center" VerticalOptions="Center">
+
+
+        
+
+        <Label 
+              Text = "Ne Yesek?"
+              FontAttributes="Bold"  
+              FontSize = "64" 
+              TextColor="#FDA530" 
+              x:Name="label"/>
+
+
+
+        <Button Text="Başla!"
+                TextColor="#AB0012"
+                FontSize="32"
+                FontAttributes="Bold"
+                CornerRadius="50"
+                BackgroundColor="#FDA530"
+                
+                Clicked="Handle_Click" />
+
+
+
+
+    </StackLayout>
+
+</ContentPage>

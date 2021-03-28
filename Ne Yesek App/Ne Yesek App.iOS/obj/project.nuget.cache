@@ -1,0 +1,42 @@
+{
+  "version": 2,
+  "dgSpecHash": "jAPXyMkbABbsRxdaBaNJeT1Xp8eDRaGeLuix9DCf/NtvZ0FFwuqQfYgJTNNHewqjtirDLl5LvGwTz5q3yfDqew==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\source\\repos\\Ne Yesek App\\Ne Yesek App\\Ne Yesek App.iOS\\Ne Yesek App.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\com.airbnb.ios.lottie\\2.5.13\\com.airbnb.ios.lottie.2.5.13.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\com.airbnb.xamarin.forms.lottie\\4.0.8\\com.airbnb.xamarin.forms.lottie.4.0.8.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\xam.plugin.simpleaudioplayer\\1.4.0\\xam.plugin.simpleaudioplayer.1.4.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\xamarin.forms\\4.8.0.1451\\xamarin.forms.4.8.0.1451.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1605",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Xamarin.Essentials paketi için 1.6.0 sürümünden 1.5.3.2 sürümüne düşürme algılandı. Farklı bir sürüm seçmek için doğrudan projeden pakete başvurun. \r\n Ne Yesek App.iOS -> Ne Yesek App -> Xamarin.Essentials (>= 1.6.0) \r\n Ne Yesek App.iOS -> Xamarin.Essentials (>= 1.5.3.2)",
+      "libraryId": "Xamarin.Essentials",
+      "targetGraphs": [
+        "Xamarin.iOS,Version=v1.0",
+        "Xamarin.iOS,Version=v1.0/win",
+        "Xamarin.iOS,Version=v1.0/win-x64",
+        "Xamarin.iOS,Version=v1.0/win-x86"
+      ]
+    },
+    {
+      "code": "NU1605",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Xamarin.Forms paketi için 5.0.0.1905 sürümünden 4.8.0.1451 sürümüne düşürme algılandı. Farklı bir sürüm seçmek için doğrudan projeden pakete başvurun. \r\n Ne Yesek App.iOS -> Ne Yesek App -> Xamarin.Forms (>= 5.0.0.1905) \r\n Ne Yesek App.iOS -> Xamarin.Forms (>= 4.8.0.1451)",
+      "libraryId": "Xamarin.Forms",
+      "targetGraphs": [
+        "Xamarin.iOS,Version=v1.0",
+        "Xamarin.iOS,Version=v1.0/win",
+        "Xamarin.iOS,Version=v1.0/win-x64",
+        "Xamarin.iOS,Version=v1.0/win-x86"
+      ]
+    }
+  ]
+}
