@@ -6,8 +6,9 @@ Ne Yesek? is my first android app with Xamarin. The application asks you for you
 
 <img src="https://user-images.githubusercontent.com/57791061/112744814-f35bee80-8fab-11eb-99dc-8f1b395a6e42.jpeg" width="250" height="500">
 
-<img src="https://user-images.githubusercontent.com/57791061/112744812-efc86780-8fab-11eb-8bc2-bc344a6a89c6.jpeg" width="250" height="500">
 
 <img src="https://user-images.githubusercontent.com/57791061/112744813-f1922b00-8fab-11eb-93d6-717bfdec822d.jpeg" width="250" height="500">
+
+<img src="https://user-images.githubusercontent.com/57791061/112744812-efc86780-8fab-11eb-8bc2-bc344a6a89c6.jpeg" width="250" height="500">
 
 
